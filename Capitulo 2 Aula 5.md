@@ -10,11 +10,11 @@ O que é a garantia de qualidade ? A garantia de qualidade ou sqa é um conjunto
 
 Ao falar de qualidade de produto é importante ressaltar que para um produto ter qualidade ele deve ter os seguintes topicos.
 
-### Corretude
-### Eficiencia
-### Usabilidade
-### Portabilidade
-### Interoperabilidade
+- Corretude
+- Eficiencia
+- Usabilidade
+- Portabilidade
+- Interoperabilidade
 
 ## Metricas de produtos e Estaticas
 
