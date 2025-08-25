@@ -5,7 +5,7 @@
 Verificação e validação esta presente em todas as etapas do nosso processo de construção a parte de verificação é a parte onde nos verificamos se o que esta sendo construido esta dentro dos requisitos, se esta sendo criado conforme o esperado,
 Tanto quanto nos requisitos ou na parte de modelagem a verificação esta presente para analisar se esta correto.
 
-Ja a parte de validação é a parte onde realizamos o nossos testes para verificar se a nossa construção realmente foi realizada devidamente e esta funcionando como esperado.
+Ja a parte de validação é a parte onde realizamos o nossos testes para verificar se a nossa construção realmente foi realizada devidamente e esta funcionando como esperado, conforme o cliente nescessita
 
 Tem como objetivo:
 
