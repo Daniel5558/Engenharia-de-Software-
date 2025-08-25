@@ -39,3 +39,13 @@ Alguns passos devem ser seguidos.
 
 - Adptação do Software {  Ocorre em 18% das manutenções  }
 
+## Tipos de manutenção 
+
+- Manutenção corretiva {  Quando a nescessidade de alguma correção de erro  }
+
+- Manutenção Adaptativa {  Quando a nescessidade de adaptar a algum novo requisito  }
+
+- Manutenção perfectiva { Melhorar um requisito ja existente }
+  
+- Manutenção preventiva {  Melhorar a confiabilidade oferecendo melhorias a novas manutenção  }
+
